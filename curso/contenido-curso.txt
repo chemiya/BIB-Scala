@@ -1,0 +1,85 @@
+Section 1: Getting Started
+1. Udemy 101: Getting the Most From This Course
+2. Alternate download link for the ml-100k dataset
+3. WARNING: DO NOT INSTALL JAVA 21+ IN THE NEXT LECTURE
+4. Introduction, and installing the course materials, IntelliJ, and Scala
+5. Introduction to Apache Spark
+Quiz 1: Spark Basics
+6. Important note
+Section 2: Scala Crash Course [Optional]
+7. [Activity] Scala Basics
+8. [Exercise] Flow Control in Scala
+9. [Exercise] Functions in Scala
+10. [Exercise] Data Structures in Scala
+Section 3: Using Resilient Distributed Datasets (RDDs)
+11. The Resilient Distributed Dataset
+12. Ratings Histogram Example
+13. Spark Internals
+14. Key / Value RDD's, and the Average Friends by Age example
+15. [Activity] Running the Average Friends by Age Example
+16. Filtering RDD's, and the Minimum Temperature by Location Example
+17. [Activity] Running the Minimum Temperature Example, and Modifying it for Maximum
+18. [Activity] Counting Word Occurrences using Flatmap()
+19. [Activity] Improving the Word Count Script with Regular Expressions
+20. [Activity] Sorting the Word Count Results
+21. [Exercise] Find the Total Amount Spent by Customer
+22. [Exercise] Check your Results, and Sort Them by Total Amount Spent
+23. Check Your Results and Implementation Against Mine
+Quiz 2: Quiz: RDD's
+Section 4: SparkSQL, DataFrames, and DataSets
+24. Introduction to SparkSQL
+25. [Activity] Using SparkSQL
+26. [Activity] Using DataSets
+27. [Exercise] Implement the "Friends by Age" example using DataSets
+28. Exercise Solution: Friends by Age, with Datasets.
+29. [Activity] Word Count example, using Datasets
+30. [Activity] Revisiting the Minimum Temperature example, with Datasets
+31. [Exercise] Implement the "Total Spent by Customer" problem with Datasets
+32. Exercise Solution: Total Spent by Customer with Datasets
+Quiz 3: Quiz: SparkSQL
+Section 5: Advanced Examples of Spark Programs
+33. [Activity] Find the Most Popular Movie
+34. [Activity] Use Broadcast Variables to Display Movie Names
+35. [Activity] Find the Most Popular Superhero in a Social Graph
+36. [Exercise] Find the Most Obscure Superheroes
+37. Exercise Solution: Find the Most Obscure Superheroes
+38. Superhero Degrees of Separation: Introducing Breadth-First Search
+39. Superhero Degrees of Separation: Accumulators, and Implementing BFS in Spark
+40. [Activity] Superhero Degrees of Separation: Review the code, and run it!
+41. Item-Based Collaborative Filtering in Spark, cache(), and persist()
+42. [Activity] Running the Similar Movies Script using Spark's Cluster Manager
+43. [Exercise] Improve the Quality of Similar Movies
+Section 6: Running Spark on a Cluster
+44. [Activity] Using spark-submit to run Spark driver scripts
+45. [Activity] Packaging driver scripts with SBT
+46. [Exercise] Package a Script with SBT and Run it Locally with spark-submit
+47. Exercise solution: Using SBT and spark-submit
+48. Introducing Amazon Elastic MapReduce
+49. Creating Similar Movies from One Million Ratings on EMR
+50. Partitioning
+51. Best Practices for Running on a Cluster
+52. Troubleshooting, and Managing Dependencies
+Quiz 4: Quiz: Spark on a Cluster
+Section 7: Machine Learning with Spark ML
+53. Introducing MLLib
+54. [Activity] Using  MLLib to Produce Movie Recommendations
+55. Linear Regression with MLLib
+56. [Activity] Running a Linear Regression with Spark
+57. [Exercise] Predict Real Estate Values with Decision Trees in Spark
+58. Exercise Solution: Predicting Real Estate with Decision Trees in Spark
+Quiz 5: Quiz: Spark ML
+Section 8: Intro to Spark Streaming
+59. The DStream API for Spark Streaming
+60. [Activity] Real-time Monitoring of the Most Popular Hashtags on Twitter
+61. Structured Streaming
+62. [Activity] Using Structured Streaming for real-time log analysis
+63. [Exercise] Windowed Operations with Structured Streaming
+64. Exercise Solution: Top URL's in a 30-second Window
+Quiz 6: Quiz: Spark Streaming
+Section 9: Intro to GraphX
+65. GraphX, Pregel, and Breadth-First-Search with Pregel.
+66. Using the Pregel API with Spark GraphX
+67. [Activity] Superhero Degrees of Separation using GraphX
+Section 10: You Made It! Where to Go from Here.
+68. Learning More, and Career Tips
+69. Bonus Lecture: More courses to explore!
